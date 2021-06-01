@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+  "include": [
+    "src/**/*"
+, "assets/utils/bitcoin.js", "assets/utils/buffer.js"  ],
+  "strict": true,
+  "exclude": [
+    "node_modules/*",
+    "api/*",
+    "assets/*"
+  ],
+}

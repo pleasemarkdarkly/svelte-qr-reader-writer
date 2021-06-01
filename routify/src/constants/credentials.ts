@@ -1,0 +1,3 @@
+export const VALID_EMAIL_INPUT_STYLING = "w-full p-3 text-sm text-gray-700 placeholder-gray-400 transition-all duration-150 ease-linear bg-white rounded shadow focus:outline-none focus:shadow-outline";
+export const INVALID_EMAIL_INPUT_STYLING = "w-full p-3 text-sm text-red-700 placeholder-gray-400 transition-all duration-150 ease-linear bg-white rounded shadow focus:outline-none focus:shadow-outline";
+export const RESET_EMAIL_INSTRUCTIONS = "If a user matches the provided email, we will will send you a reset link.";

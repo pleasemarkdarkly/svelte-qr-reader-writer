@@ -1,0 +1,26 @@
+{
+  "mautic": {
+    "password": "",
+    "username": "",
+    "host": ""
+  },
+  "twilio": {
+    "auth_token": "",
+    "number_one": "+1",
+    "account_sid": ""
+  },
+  "developer": {
+    "phone": "+1"
+  },
+  "pushover": {
+    "token": "",
+    "user": ""
+  },
+  "sendgrid": {
+    "templateid_ex_mms": "",
+    "api_key": ""
+  },
+  "slack": {
+    "oauth_token": ""
+  },
+}

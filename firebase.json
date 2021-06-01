@@ -1,0 +1,30 @@
+{
+  "functions": {
+    "predeploy": [
+      "rm -rf ../.firebase",
+      "cd ./functions && yarn && yarn run build"
+    ]
+  },
+  "hosting": {
+    "public": "./routify/dist",
+    "predeploy": [
+      "rm -rf ../.firebase/",
+      "cd ./routify/ && yarn && yarn run build && yarn run build:static"
+    ],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrite": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

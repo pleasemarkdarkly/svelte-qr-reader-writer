@@ -1,0 +1,10 @@
+export const exampleConfig = {
+    projectId: "",
+    messagingSenderId: "",
+    appId: "",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    measurementId: ""
+};

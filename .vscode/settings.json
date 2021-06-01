@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "adapter",
+        "bitcontracts",
+        "build",        
+        "kit",
+        "node",
+        "predeploy",
+        "robo",
+        "runtimeconfig",
+        "svelte",
+        "sveltejs",
+        "sveltekit",
+        "synapsi",
+        "tldr",
+        "vite"
+    ],
+    "cSpell.ignoreWords": [
+        "instascan",
+        "utxos"
+    ]
+}
