@@ -1,14 +1,13 @@
 # Svelte QR-Code Scanner, Svelte QR-Code Reader, etc.
 
 Safari Mobile
-<div style="text-align:center;">
+<div style="text-align:center">
 <a href='https://example-4f999.web.app/'>
-<img src='images/IMG_1428.jpg' width='210px'>
+<img src='https://pleasemarkdarkly.github.io/images/qr-code-reader.jpg' width='210px'>
 </a>
 </div>
 
 [See demo](https://example-4f999.web.app/)
-
 ## Highlights
 * [Pattern for loading external libraries in Svelte](./routify/src/pages/_components/LibLoader.svelte)
 * [JsQr Code Scanner via Camera](./routify/src/pages/_components/JsQRScanner.svelte)
@@ -17,7 +16,7 @@ Safari Mobile
 JsQR Code Scanner works in the browser, desktop and mobile including Safari. Based on [this](https://davidshimjs.github.io/qrcodejs/) and [this](https://github.com/schmich/instascan).
 
 Chrome 
-<div style="text-align:center;">
+<div style="text-align:center">
 <a href='https://example-4f999.web.app/'>
 <img src='images/qr-reader.png' width='210px'>
 <img src='images/qr-gen.png' width='200px'>
