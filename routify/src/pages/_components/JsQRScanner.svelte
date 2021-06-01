@@ -202,7 +202,7 @@
                     </p>
                     <div class="gwt-HTML">Point the webcam at a QR code.</div>
                     <i
-                        >QRCode scanner does not record videos, only look for
+                        >QRCode scanner does not record videos, only looks for
                         QRcodes.</i
                     >
                     <p />
