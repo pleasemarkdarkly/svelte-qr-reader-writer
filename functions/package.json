@@ -29,7 +29,7 @@
     "helmet": "^4.4.1",
     "html-escape": "^2.0.0",
     "isomorphic-fetch": "^3.0.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "morgan": "^1.10.0",
     "natural": "^5.0.1",
     "node-fetch": "^2.6.1",
