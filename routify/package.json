@@ -59,7 +59,7 @@
       "safe-buffer": "^5.2.1",
       "spank": "^1.5.1",
       "spassr": "^2.2.0",
-      "svelte": "^3.29.4",
+      "svelte": "^3.49.0",
       "svelte-check": "^1.0.0",
       "svelte-image": "^0.2.9",
       "svelte-notifications": "^0.9.9",
